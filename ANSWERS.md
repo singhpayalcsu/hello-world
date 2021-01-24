@@ -30,7 +30,7 @@
 
 
 
-###2(b)
+### 2(b)
 ![git command line Screen Shot1 ](images/2bscreenshot1.png)
 ![git command line Screen Shot2 ](images/2bscreenshot2.png)
 
